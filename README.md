@@ -1,4 +1,21 @@
-# ci_temp_dond21
+# ci_temp_dond21 Retemplate
+
+![image](https://github.com/user-attachments/assets/9988dfbc-a6b3-496d-96d0-51fc66a0aa01)
+
+![image](https://github.com/user-attachments/assets/3169a3bf-537d-48d9-9c82-bab3448a76f4)
+
+![image](https://github.com/user-attachments/assets/7bead9c6-9b45-4085-8904-3304113c9cf5)
+
+
+
+# för dagshub
+
+## Modelkreation: https://www.mlflow.org/docs/latest/model-registry.html#adding-an-mlflow-model-to-the-model-registry
+
+## *data pipline: https://dagshub.com/docs/tutorial/ *
+
+
+# Resten är 🏛 ett Tem⛩lATE 
 
 Kidney-Disease-Classification-MLflow-DVC
 Workflows
