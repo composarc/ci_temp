@@ -7,7 +7,7 @@ let scale = 0;
 let scaleControl = {
   x: 540,
   y: 130,
-  width: 400,
+  width: 50,
   barHeight: 300,
   handleHeight: 20,
   handleY: 0
